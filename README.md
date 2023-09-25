@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciscoBMBCorrea
 - 👀 I’m interested in Learning everything I can
-- 🌱 I’m currently learning Javascript using the Canvas Library
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
        franciscobmbc@gmail.com
 
